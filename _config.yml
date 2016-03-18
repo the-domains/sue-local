@@ -1,0 +1,28 @@
+name: Sue Local
+favicon: null
+layout_spectrum: 0.40632380987517536
+typography_spectrum: 0.863505580695346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9243464216124266
+  lightness: 0.9374790566507727
+  saturation: 0.8290709073189646
+  rhythmicContrast: 0.1337428216356784
+purpose: []
